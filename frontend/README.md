@@ -12,4 +12,4 @@ Axios
 Account Creation
 View account balance
 Transaction history
-Deposit / Withdrawl screens
+Deposit / Withdrawl

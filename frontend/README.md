@@ -1,3 +1,3 @@
-#Spring Boot Banking Application
+#Banking frontend
 
-Java Full Sttack Banking Project
+React frontend for Retail Banking Application
